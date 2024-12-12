@@ -1,4 +1,4 @@
-# Emlakjet Scraper
+# Emlak Scraper
 
 Bu proje, web sitesinden kiralık daire verilerini çekmekte ve bu verileri ilçelere göre ayırarak bir Excel dosyasına aktarmaktadır.
 
